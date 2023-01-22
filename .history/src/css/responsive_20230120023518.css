@@ -1,0 +1,14 @@
+    @media(max-width:1200px) {
+        body {
+            background-color: violet;
+        }
+        .fundo-video {
+            display: none;
+        }
+        .principal {
+            flex-wrap: wrap;
+        }
+        .principal .mario {
+            max-width: ;
+        }
+    }

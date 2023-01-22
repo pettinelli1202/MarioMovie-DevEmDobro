@@ -1,0 +1,18 @@
+body {
+    background: var;
+    font-family: 'Poppins';
+    color: var
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.mario {
+    flex-direction: row;
+}
+
+.imagem-titulo {
+    width: 200;
+}

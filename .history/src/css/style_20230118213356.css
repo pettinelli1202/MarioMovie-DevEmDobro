@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)100%);
+    font-family: 'Poppins';
+    color: var(--color-text-primary);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.mario {
+    flex-direction: row;
+}
+
+.princiapl .info {
+    margin-top: 15%;
+    font-size: 40px;
+}
+
+.princi

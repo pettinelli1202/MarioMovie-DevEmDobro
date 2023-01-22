@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins';
+}
+
+.cabecalho {
+    background-color: rgb(30, 30, 30);
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabecalho .logo {
+    width: 65px;
+}
+
+.cabecalho .menu {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.cabecalho nav li a {
+    font-weight: bold;
+    color: aliceblue;
+    font-size: larger;
+    padding: 20px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.cabecalho nav li a:hover {
+    background-color: black;
+}

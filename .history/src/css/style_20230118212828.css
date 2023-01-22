@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient();
+    font-family: 'Poppins';
+    color: var(--color-text-primary);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.mario {
+    flex-direction: row;
+}
+
+.imagem-titulo {
+    width: 200;
+}

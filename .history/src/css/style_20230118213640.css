@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)100%);
+    font-family: 'Poppins';
+    color: var(--color-text-primary);
+}
+
+.video {}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.principal .mario {
+    flex-direction: row;
+}
+
+.principal .info {
+    margin-top: 15%;
+    font-size: 20px;
+}
+
+.principal .imagem-titulo {
+    width: 100;
+}

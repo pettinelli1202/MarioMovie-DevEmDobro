@@ -1,0 +1,17 @@
+body {
+    background: var;
+    font-family: ;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.mario {
+    flex-direction: row;
+}
+
+.imagem-titulo {
+    width: 200;
+}

@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.mario {
+    flex-direction: row;
+}
+
+.info {
+    height: 200;
+    width: 200;
+}

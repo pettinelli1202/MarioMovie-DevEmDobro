@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins';
+}
+
+.cabecalho {
+    background-color: black;
+    display: flex;
+}
+
+.cabecalho .logo {
+    width: 65px;
+}

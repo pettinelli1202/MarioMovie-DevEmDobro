@@ -1,0 +1,9 @@
+@media(max-width:1200px) {
+    body {}
+    .fundo-video {
+        display: none;
+    }
+    .container {}
+}
+
+@media()
